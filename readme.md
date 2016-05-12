@@ -17,7 +17,9 @@ If on Windows, WAMP http://www.wampserver.com/en/
 
 ## Usage
 Once set up, you can scrape users in two ways:
+
 A. Enter usernames line-by-line in the text area
+
 B. Upload a CSV file of users. (Heading for the username row must be "instagram" in order for this to work.)
 
 Once scraping is complete, you can zip up files with the button provided and download a CSV of all images for later usage. Each image will be keyed with the corresponding username.
